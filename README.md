@@ -2,6 +2,7 @@ Tibeb Guess – Ethiopian Proverbs Game 🎉
 
 Tibeb Guess is an interactive OOP-based game to learn Ethiopian proverbs through images. Players don’t type answers — after a 30-second timer, the correct proverb appears automatically, and scores/hearts are updated.
 
+
 Features ✅
 
 30-second timer per round ⏱️
@@ -13,6 +14,7 @@ No typing/input required
 Score ⭐ and heart ❤️ tracking
 
 Fun, group-friendly, cultural learning
+
 
 How to Play 🎮
 
@@ -26,6 +28,7 @@ Score updates: ✅ +1 for correct, ❌ -1 heart for wrong/time-out.
 
 Game ends when hearts run out or all proverbs are shown.
 
+
 OOP Design 🛠️
 
 Proverb Class: stores text, meaning, image
@@ -36,15 +39,17 @@ GameController: manages UI and game flow
 
 Encapsulation, Inheritance, Polymorphism, Abstraction for clean, scalable design
 
+
 Tools
 
 Language: Java
 
-Framework: JavaFX / Swing
+Framework: JavaFX
 
-IDE: IntelliJ / NetBeans / Eclipse
+IDE: VS Code
 
 Version Control: GitHub
+
 
 Outcome 🎯
 
