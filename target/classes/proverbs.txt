@@ -1,0 +1,36 @@
+# Proverb Data File
+# Format: proverb_text|image_path
+# Lines starting with # are comments and will be ignored
+# Empty lines are also ignored
+
+# Sample Easy Amharic Proverbs
+ፍየል ከመድረሷ ቅጠል መበጠሷ።|/images/easy/proverb1.jpg
+50 ሎሚ ለአንድ ሰው ሸክሙ ለ50 ሰው ጌጡ ነው።|/images/easy/proverb2.jpg
+ድር ቢያብር አንበሳ ያስር።|/images/easy/proverb4.jpg
+ባልና ሚስት ከአንድ ባህር ይቀዳል።|/images/easy/proverb7.jpg
+ተልባ ቢንጫጫ በአንድ ሙቀጫ።|/images/easy/proverb11.jpg
+ጅብ ማያቀው ሀገር ሄዶ ቁርበት አንጥፉልኝ ይላል።|/images/easy/proverb12.jpg
+ዶሮ ብታልም ጥሬዋን።|/images/easy/proverb15.jpg
+አወቅሽ አወቅሽ ሲሏት የባሏን መፅሃፍ አጠበች።|/images/easy/proverb20.jpg
+የጅብ ችኩል ቀንድ ይነክሳል።|/images/easy/proverb21.jpg
+ሌባ ላመሉ ዳቦ ይልሳል።።|/images/easy/proverb22.jpg
+
+
+# Sample Medium Amharic Proverbs
+ዶሮን ሲያታልሏት በመጫኛ ጣሏት ፤ አስረዝመው ሲያስሯት የፈቷት መሰላት።|/images/medium/proverb5.jpg
+ሰካራም ቤት አይሰራም።|/images/medium/proverb6.jpg
+ብርሌ ከነቃ አይሆንም እቃ።|/images/medium/proverb9.jpg
+ድመት መንኩሳ አመሏን አትረሳ።|/images/medium/proverb14.jpg
+ሁለት እግር አለኝ ተብሎ ሁለት ዛፍ አይወጣም።|/images/medium/proverb16.jpg
+አዲስ እረኛ ከብት አያስተኛ።|/images/medium/proverb17.jpg
+
+
+# Sample Hard Amharic Proverbs
+አትሩጥ አንጋጥ።|/images/hard/proverb3.jpg
+የሌባን ጠበቃ አደባልቀህ ውቃ።|/images/hard/proverb8.jpg
+ታሞ የተነሳ እግዜርን ረሳ።|/images/hard/proverb10.jpg
+የልጅ ነገር አንዱ ጥሬ አንዱ ብስል።|/images/hard/proverb13.jpg
+የማያዘልቅ ማህበር በጠጅ ይጀምራል።|/images/hard/proverb18.jpg
+ሁለት ጊዜ ነው የዶሮ ልደት አንዱ በእንቁላል አንዱ በጫጩት።|/images/hard/proverb19.jpg
+
+
