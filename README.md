@@ -1,25 +1,25 @@
 <<<<<<< HEAD
-**Tibeb Guess – Ethiopian Proverbs Game 🎉**
+**Tibeb Guess – Ethiopian Proverbs Guessing Game 🎉**
 
 Tibeb Guess is an interactive OOP-based game to learn Ethiopian proverbs through images. Players don’t type answers — after a 30-second timer, the correct proverb appears automatically, and scores/hearts are updated.
 
 
-**Features ✅**
+**Features**
 
 
-30-second timer per round ⏱️
+30-second timer per round 
 
 Automatic answer display
 
 No typing/input required
 
-Score ⭐ and heart ❤️ tracking
+Score and heart tracking
 
 Fun, group-friendly, cultural learning
 
 
 
-**How to Play 🎮**
+**How to Play**
 
 Image of a proverb appears.
 
@@ -27,12 +27,12 @@ Think about the meaning for 30 seconds.
 
 Correct proverb shows automatically.
 
-Score updates: ✅ +1 for correct, ❌ -1 heart for wrong/time-out.
+Score updates: +1 for correct, -1 heart for wrong/time-out.
 
 Game ends when hearts run out or all proverbs are shown.
 
 
-**OOP Design 🛠️**
+**OOP Design**
 
 Proverb Class: stores text, meaning, image
 
@@ -54,7 +54,7 @@ IDE: VS Code
 Version Control: GitHub
 
 
-**Outcome 🎯**
+**Outcome**
 
 Fun, educational, image-based guessing game
 
@@ -119,9 +119,9 @@ Make sure you have Java 11+ and Maven installed.
    ```
 
 2. Add your proverb images (15-30 images) using the same filenames referenced in `src/main/resources/proverbs.txt`, e.g.:
-   - `proverb_builder.jpg` (ሰብራም ቤት አይባርም)
-   - `proverb_lion_web.jpg` (ድር በቅቤ እንኳ አይቀላቀልም)
-   - `proverb_cattle_child.jpg` (እድል እንስሳ ከቦታ አይቆይም)
+   - `proverb_builder.jpg` (ሰካራም ቤት አይሰራም፡፡)
+   - `proverb_lion_web.jpg` (ድር ቢያብር አንበሳ ያስር፡፡)
+   - `proverb_child.jpg` (የልጅ ነገር አንዱ ጥሬ አንዱ ብስል።)
    - Additional placeholders such as `proverb1.jpg`, `proverb2.jpg`, ...
 
 ### 3. Update Proverb Data
